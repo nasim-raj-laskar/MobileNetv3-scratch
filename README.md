@@ -1,11 +1,15 @@
 # MobileNetV3-Large: Complete Implementation Notes
 
 > **📓 For detailed understanding and complete quick reference, see:** [`notebook/MV3_scratch_complete_notes.ipynb`](notebook/MV3_scratch_complete_notes.ipynb)
+
 > ⚠️ This implementation is intended for educational and architectural understanding.
+
 > For production use or pretrained weights, refer to official TensorFlow implementations.
 
 
 A from-scratch, block-level implementation of MobileNetV3-Large in TensorFlow, combining detailed theory with a faithful architectural reconstruction.
+
+
 ---
 
 ## 📚 Table of Contents
