@@ -49,7 +49,7 @@ Mobile and edge devices have constraints:
 
 ---
 
-## 🔄 Evolution: MobileNet Family
+## 🔄 Evolution: MobileNet Family <a id="evolution-mobilenet-family"></a>
 
 ### MobileNetV1 (2017)
 - Introduced **Depthwise Separable Convolutions**
@@ -71,7 +71,7 @@ Mobile and edge devices have constraints:
 
 ---
 
-## 🧠 Core Concepts & Theory
+## 🧠 Core Concepts & Theory <a id="core-concepts--theory"></a>
 
 ### 1. Depthwise Separable Convolutions
 
@@ -192,7 +192,7 @@ ReLU6(x) = min(max(0, x), 6)
 
 ---
 
-## 🏗️ Architecture Deep Dive
+## 🏗️ Architecture Deep Dive <a id="architecture-deep-dive"></a>
 
 ### Overall Structure
 
@@ -311,7 +311,7 @@ Conv 1×1: 1280 → num_classes (classifier)
 
 ---
 
-## 💻 Implementation Details
+## 💻 Implementation Details <a id="implementation-details"></a>
 
 ### Project Structure
 
@@ -387,7 +387,7 @@ def hard_swish(x):
 
 ---
 
-## 🚀 Usage & Training
+## 🚀 Usage & Training <a id="usage--training"></a>
 
 ### Installation
 
@@ -510,7 +510,7 @@ for layer in base_model.layers[:-10]:
 
 ---
 
-## 📖 References
+## 📖 References <a id="references"></a>
 
 ### Papers
 1. **MobileNetV3:** [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) - Howard et al., 2019
