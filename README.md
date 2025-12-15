@@ -24,7 +24,7 @@ A from-scratch, block-level implementation of MobileNetV3-Large in TensorFlow, c
 
 ---
 
-## 🎯 Introduction & Motivation
+## 🎯 Introduction & Motivation <a id="introduction--motivation"></a>
 
 ### Why MobileNets?
 
